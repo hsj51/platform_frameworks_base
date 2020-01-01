@@ -4714,6 +4714,12 @@ public final class Settings {
          */
         public static final String SHOW_VOLTE_ICON = "volte_icon";
 
+        /**
+         * VoLTE icon Styles
+         * @hide
+         */
+        public static final String VOLTE_ICON_STYLE = "volte_icon_style";
+
 	/**
          * Home wake button
          * @hide
